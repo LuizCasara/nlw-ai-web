@@ -14,10 +14,11 @@
 * Typescript
 * Vite
 * Tailwindcss
-* ai
-* ffmpeg
-* axios
-* lucide
+* Ai
+* Ffmpeg
+* Axios
+* Radix
+* Lucide
 
 ![image](https://github.com/LuizCasara/nlw-ai-web/assets/66029330/61786be6-598c-42da-b282-fb2e474880a6)
 
